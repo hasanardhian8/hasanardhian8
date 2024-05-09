@@ -15,8 +15,6 @@ i'm a Backend Developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hasanardhian8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hasanardhian8&icon=7&color=12)](https://visitcount.itsvg.in)
